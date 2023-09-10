@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Euphoriq's Music Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: #444;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .bio {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .bio img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .content h2 {
+            color: #222;
+        }
+
+        .content p {
+            line-height: 1.6em;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Euphoriq's Music Page</h1>
+    </div>
+
+    <div class="bio">
+        <img src="your_profile_picture.jpg" alt="Euphoriq">
+        <h2>Ubong Peter Asangsusung (Euphoriq)</h2>
+        <p>Born 25 July 1992</p>
+        <p>Graduate of Banking and Finance from the University of Calabar, Calabar, Nigeria.</p>
+    </div>
+
+    <div class="content">
+        <h2>About Euphoriq</h2>
+        <p>
+            Ubong Peter Asangsusung, known professionally as Euphoriq, is a Nigerian singer, songwriter, guitarist,
+            recording and performing artist. He began his music career by performing live acoustic music weekly on the
+            Hit breakfast show at Hit95.9FM Calabar. He moved on to performing at private parties, concerts, clubs, open
+            mic sessions, listening rooms, and music festivals. He has also been a contestant on The Voice Nigeria
+            Season 4, Covers Africa Season 2.
+        </p>
+        <p>
+            Known for a crispy, raspy yet soothing voice texture, his repertoire consists of an acoustic variety of
+            pop, rock, afro rock, afro soul, and classics. Currently, he is working on an EP project that would be his
+            first official body of work.
+        </p>
+    </div>
+
+    <div class="footer">
+        <p>© 2023 Euphoriq. All rights reserved.</p>
+    </div>
+</body>
+
+</html>
